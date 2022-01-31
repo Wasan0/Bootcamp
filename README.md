@@ -1,6 +1,6 @@
 # Bootcamp
 
-This bootcamp is one of google developer student club at PSAU projects of this semester, below shows the schedule that will working on during the bootcamp. 
+This bootcamp is one of google developer student club at PSAU projects of this semester, below shows the schedule that will working on during this bootcamp. 
 
 
 |   	|  Monday <br> 8:00PM - 10:00PM	|  Wendsay <br> 8:00PM - 10:00PM	|  Thursday <br> 3:40PM - 5:40PM	|  Saturday <br> 3:40PM - 5:40PM	|
